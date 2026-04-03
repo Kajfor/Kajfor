@@ -37,4 +37,6 @@ I don't just work with data; I’m obsessed with it. From uncovering hidden patt
 * 📈 **SAP Integration:** Learning how to effectively pull and push data between SAP and modern BI tools.
 
 
+
+
 > "In God we trust. All others must bring data." — W. Edwards Deming
