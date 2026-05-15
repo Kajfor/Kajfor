@@ -1,9 +1,5 @@
 # Hi there, I'm Jakub! 👋
 
-### 📊 Data Fanatic | SQL & Python Enthusiast | Automation Seeker
-
-I don't just work with data; I’m obsessed with it. From uncovering hidden patterns to building robust pipelines, I live and breathe everything related to the data ecosystem. If it can be measured, analyzed, or automated, I’m probably already working on it.
-
 ---
 
 ### 🚀 About Me
