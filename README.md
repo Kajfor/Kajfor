@@ -7,8 +7,7 @@
 - 🧐 **Focus:** Currently deep-diving into data engineering and advanced analytics.
 - 🐍 **Main Stack:** My "bread and butter" are **SQL** and **Python**, but I'm constantly expanding my horizons.
 - ⚙️ **The Enterprise Edge:** I have a strong interest in **SAP** and **VBA**, specifically using them to bridge the gap between corporate systems and modern data workflows.
-- 🛠️ **Scripting:** I love writing scripts that make manual tasks disappear. Efficiency is my love language.
-- 📈 **My Philosophy:** I strive to become better every single day, pushing the boundaries of what's possible with data and technology.
+- 🛠️ **Scripting:** I love writing scripts that make manual tasks disappear.
 
 ---
 
@@ -31,8 +30,3 @@
 * ☁️ **Cloud Databases:** Exploring data warehousing and scaling in the cloud (AWS/Azure).
 * 🐍 **Python Ecosystem:** Deepening my knowledge of automation and data processing libraries.
 * 📈 **SAP Integration:** Learning how to effectively pull and push data between SAP and modern BI tools.
-
-
-
-
-> "In God we trust. All others must bring data." — W. Edwards Deming
